@@ -13,10 +13,11 @@ A simple Node.js and Express application showing how to create  a new Worker thr
    cd my-node-app
 
 2. Install dependencies:
-npm install
+   ```bash
+   npm install
 
-3. Start the application:
-For development:
-npm run dev
-For production:
-npm start
+4. Start the application:
+a -For development:
+```bash
+   npm run dev
+
